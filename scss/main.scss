@@ -1,0 +1,10 @@
+$color--baclk: #000;
+$color--white: #fff;
+
+body {
+  background-color: $color--baclk;
+  h1 {
+    color: $color--white;
+    display: flex;
+  }
+}
